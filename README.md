@@ -34,13 +34,13 @@ python3 Control-Mars-DDOS.py
 ```
 
 
-قناتي على يوتوب بعنوان
+قناتي على يوتوب 
 ### youtube
 ```
 https://www.youtube.com/watch?v=W2ZMvNH-k8s&t=145s&ab_channel=MARS-COC
 
 ```
-اذا واجهت مشاكل قم بتواصل معي علئ انستغرام 
+اذا واجهت مشاكل قم بتواصل معي على انستغرام 
 ### instagram
 ```
 https://www.instagram.com/mars_coc/

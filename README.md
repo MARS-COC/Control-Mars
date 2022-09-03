@@ -28,7 +28,7 @@ python3
 
 
 
-الان قم بتشغي الادات 
+الان قم بتشغيل الادات 
 ```
 python3 Control-Mars-DDOS.py
 ```

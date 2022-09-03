@@ -32,4 +32,13 @@ python3
 ```
 python3 Control-Mars-DDOS.py
 ```
-قناتي علئ يوتو
+
+
+قناتي على يوتوب بعنوان
+### youtube
+```
+https://www.youtube.com/watch?v=W2ZMvNH-k8s&t=145s&ab_channel=MARS-COC
+
+```
+اذا واجهت مشاكل قم بتواصل معي علئ انستغرام 
+### instagram
